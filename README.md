@@ -1,6 +1,6 @@
 # Site de Projetos Acadêmicos - UERN
 
-Este é um site desenvolvido em React + Vite + CSS Modules para listar projetos, eventos e permitir inscrições acadêmicas.
+Este é um site desenvolvido em React + Vite + CSS Modules para listar projetos, eventos e permitir inscrições acadêmicas, com o back-end feito em python utilizando o framework Flask.
 
 ## 🚀 Instalação
 
